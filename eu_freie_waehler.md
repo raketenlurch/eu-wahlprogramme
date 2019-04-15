@@ -1,3 +1,14 @@
+# Unsere Heimat Europa
+# Programm der freien Wähler zur Europawahl 2019
+<www.unsereheimateuropa.de>
+
+## Heimat Europa
+\*#unsereHEIMATeuropa\*
+
+Europas Zukunft liegt in seinen Regionen. Hier fühlen sich die Bürgerinnen und Bürger heimisch und geborgen. Leben, Kultur und Wertschöpfung finden hier statt. Damit wir aber die Herausforderungen der Globalisierung meistern können, braucht es ein starkes Europa, dass sich um die großen Dinge kümmert: Insbesondere Fragen der Sicherheit nach innen und außen, das Einhalten unserer Werte wie Demokratie, Rechtsstaatlichkeit und unserer Grund-, und Menschenrechte. Dazu zählen auch die Pressefreiheit und die freie Meinungsäußerung, das Angehen ökologischer Herausforderungen sowie gleiche Arbeitsbedingungen und faire Regeln des Handels innerhalb Europas und mit unseren Partnern weltweit. Europa bleibt ein Staatenverbund. Gleichzeitig gilt es aber, die Städte und Gemeinden sowie die Regionen in diesem Mehrebenensystem zu stärken und ihnen mehr Mitsprache bei unserem gemeinsamen Projekt Europa zu geben. 
+
+
+
 ```
 http://www.unsereheimateuropa.de
 ```
